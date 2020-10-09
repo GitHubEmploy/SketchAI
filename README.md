@@ -27,7 +27,3 @@ You will need to download the [VGG-19 model](http://www.vlfeat.org/matconvnet/mo
 
 Then just run art.py.
 
-References:
-- [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
-- [https://github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)
-- [https://github.com/ckmarkoh/neuralart_tensorflow](https://github.com/ckmarkoh/neuralart_tensorflow)
